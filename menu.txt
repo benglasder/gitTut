@@ -4,3 +4,4 @@ THis is a menu
 - Pasta
 - Guacamole
 - Mac N' Cheese
+- Caesar salad
